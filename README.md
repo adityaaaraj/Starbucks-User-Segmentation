@@ -1,11 +1,10 @@
 
-***
 
 # Starbucks User Segmentation
 
 ## Project Overview
 
-This project focuses on performing **unsupervised customer segmentation** on Starbucks data to identify distinct user groups based on their demographic features, transaction behavior, and response to marketing offers. The goal is to provide actionable insights for optimizing future promotional strategies and personalize the customer experience.
+This project focuses on performing **unsupervised user segmentation** on Starbucks data to identify distinct user groups based on their demographic features, transaction behavior, and response to marketing offers. The goal is to provide actionable insights for optimizing future promotional strategies and personalize the customer experience.
 
 The analysis follows a robust methodology, including extensive feature engineering, data transformation, and comparison of multiple clustering algorithms.
 
